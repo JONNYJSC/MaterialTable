@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 # MaterialTable
 
 # Codigo ejemplo
+```
 import React, { useState } from 'react';
 import './App.css';
 import MaterialTable from 'material-table'
@@ -101,4 +102,5 @@ function App() {
 }
 
 export default App;
+```
 #
